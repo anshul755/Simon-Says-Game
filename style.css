@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgb(16, 16, 16);
+}
+
+.simon{
+    display: flex;
+    justify-content: center;
+}
+
+.bt{
+    width: 160px; 
+    height: 160px;
+    border: 7px solid black;
+    border-radius: 15%;
+    margin: 1rem;
+}
+
+.red{
+    background-color: red;
+}
+
+.green{
+    background-color: green;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.flash{
+    background-color: white;
+}
+
+.uflash{
+    background-color: goldenrod;
+}
